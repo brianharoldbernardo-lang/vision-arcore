@@ -42,7 +42,7 @@ Core navigation functionality remains available at all times. AI-powered scene a
 
 ## Screenshot
 
-![VISION App Screenshot](motorcycle%20detected.jpg)
+<img src="motorcycle detected.jpg" width="300"/>
 ---
 ## Setup
 ### Prerequisites
