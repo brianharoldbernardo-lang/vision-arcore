@@ -58,9 +58,9 @@ Core navigation functionality remains available at all times. AI-powered scene a
 ---
 ## Team
 This app was developed as a thesis project by a group of 3 members.
-- **[Your Name]** — Primary Developer (ARCore version)
-- [Member 2] — MiDaS version
-- [Member 3] — [their role]
+- **Brian Harold B. Bernardo** — Primary Developer (ARCore version)
+- Ron Ashley F. Flores — MiDaS version
+- Christian V. Barot — Documentation and Requirements Analysis
 ---
 ## Disclaimer
 This project was developed as an academic thesis. The Groq API key is not included in this repository. You must provide your own key via `local.properties`.
