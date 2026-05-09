@@ -40,6 +40,9 @@ VISION is designed to work in environments with limited or no internet connectio
 | AI Spatial Analysis (Llama v4 Scout) | ❌ | ✅ |
 Core navigation functionality remains available at all times. AI-powered scene analysis requires an active internet connection to reach the Groq API.
 
+## Screenshot
+
+![VISION App Screenshot](motorcycle%20detected.jpg)
 ---
 ## Setup
 ### Prerequisites
